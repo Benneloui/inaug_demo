@@ -1,4 +1,8 @@
+# Example README
+
+
 # The global temperature-CO<sub>2</sub> spiral
+
 
 ## Project overview
 
@@ -30,14 +34,14 @@ The following data were obtained from external sources and are contained in this
 |                               and the project proposal for the Proseminar
 │
 ├── inaug_demo.Rproj.        <- R project file
-| 
+|
 ├── .gitignore               <- file indicating which files should be ignored when pushing
 |
 ├── data-raw/                <- folder for data downloaded from the external sources, unprocessed
 |
 ├── data/                    <- folder for data produced by the repository
 │
-├── figures/                 <- folder for figure files produced by the repository 
+├── figures/                 <- folder for figure files produced by the repository
 │
 ├── vignettes/               <- R markdown files
 │   ├── past_to_future_co2_temperature.Rmd  <- Contains the full workflow of data read, processing, and visualisation.
